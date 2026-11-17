@@ -86,7 +86,7 @@ export const projects: Project[] = [
       "Persistent project workspaces",
       "Responsive UI with reusable components and light/dark theme",
     ],
-    repo: null, // TODO: add the Codexa repository URL
+    repo: "https://github.com/AdDeR55/CODEXA",
     live: null,
   },
   {
